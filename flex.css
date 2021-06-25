@@ -13,6 +13,7 @@
 .top-nav {
     height: 150px;
     background-color: green;
+    margin-top: 30px;
 }
 .side-nav {
     height: 300px;
